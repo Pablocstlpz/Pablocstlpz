@@ -15,7 +15,6 @@ Estudiante de último año del **Grado Superior en Desarrollo de Aplicaciones We
 
 Aprendo construyendo cosas reales. Mi perfil es full stack: me muevo igual de cómodo en el frontend que en el backend, y me interesa entender qué pasa por debajo, desde el modelo de datos hasta el servidor que lo expone. Ahora mismo amplío el perfil hacia **C# y .NET** en entorno corporativo y exploro **automatización con n8n e IA local** de forma autodidacta.
 
-> 🟢 Disponible para incorporación inmediata.
 
 ---
 
