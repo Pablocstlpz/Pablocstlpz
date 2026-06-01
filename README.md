@@ -60,7 +60,7 @@ Aprendo construyendo cosas reales. Mi perfil es full stack: me muevo igual de c�
 
 | Período | Empresa | Rol |
 |---|---|---|
-| mar 2026 → hoy | **Deuser (Indra Group)** | Programador Full Stack · Prácticas |
+| mar 2026 → may 2026 | **Deuser (Indra Group)** | Programador Full Stack · Prácticas |
 | jun → ago 2025 | **CASTILGLASS** | Especialista Informático |
 | may 2025 | **Universidad de Córdoba** | Programador Web · Prácticas |
 | jul → ago 2024 | **CASTILGLASS** | Especialista Informático |
@@ -95,14 +95,6 @@ Ecosistema de publicación desacoplado usando **Llama 3** local y **Telegram** c
 
 ---
 
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Pablocstlpz&show_icons=true&theme=transparent&hide_border=true&title_color=D9F99D&icon_color=D9F99D&text_color=a3a3a3)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablocstlpz&layout=compact&theme=transparent&hide_border=true&title_color=D9F99D&text_color=a3a3a3)
-
----
-
-*Construyendo desde Córdoba · Disponible para incorporación inmediata*
+*Construyendo desde Córdoba*
 
 **[→ Ver portfolio completo](https://pmcastillo.vercel.app)**
